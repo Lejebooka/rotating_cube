@@ -20,3 +20,4 @@ This project is a simple 3D simulation of a rotating cube implemented in Rust. T
      cd rotating_cube
    
      cargo run
+     '''
