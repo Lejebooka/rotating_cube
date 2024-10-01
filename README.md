@@ -14,6 +14,7 @@ This project is a simple 3D simulation of a rotating cube implemented in Rust. T
 ## Installation
 1. Make sure you have Rust installed.
 2. Clone the repository:
+     '''bash
      git clone https://github.com/Lejebooka/rotating_cube.git
    
      cd rotating_cube
