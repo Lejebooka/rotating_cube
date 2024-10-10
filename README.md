@@ -19,3 +19,5 @@ git clone https://github.com/Lejebooka/rotating_cube.git
 cd rotating_cube
 cargo run
 ```
+## License
+This project is licensed under the MIT License.
